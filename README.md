@@ -1,0 +1,24 @@
+# Generative Adversarial Networks 
+
+***Authors: Daniel Vigild Juhász, Frederik Kromann Hansen & Lau Johansson*** <br /> <br />
+
+This repository contains hand-in assignment for the DTU course 02514 Deep learning in computer vision. 
+
+Read our article [here]() <br />
+
+
+
+## Simple GAN (fully connected) - MNIST
+This notebook is a implementation of a simple GAN trained on MNIST dataset.
+Look at the implemented model [here]()
+
+## CycleGAN - Horse2Zebra
+This notebook is a implementation of a CycleGAN trained on images of horses and zebras.
+Look at the implemented model [here]()
+
+
+
+
+
+
+
