@@ -10,7 +10,11 @@ Read our article [here]() <br />
 
 ## Simple GAN (fully connected) - MNIST
 This notebook is a implementation of a simple GAN trained on MNIST dataset.
+
+![alt text](https://raw.githubusercontent.com/LauJohansson/ImageSegmentation_lung_CT/master/Figure_4.png?raw=true)
+
 Look at the implemented model [here]()
+
 
 ## CycleGAN - Horse2Zebra
 This notebook is a implementation of a CycleGAN trained on images of horses and zebras.
