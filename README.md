@@ -19,7 +19,7 @@ Look at the implemented model [here]()
 ## CycleGAN - Horse2Zebra
 This notebook is a implementation of a CycleGAN trained on images of horses and zebras.
 
-![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/CycleGAN.png?raw=true)
+![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/CycleGAN.jpg?raw=true)
 
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/Horses_and_zebras_image.png?raw=true)
 
