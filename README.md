@@ -13,6 +13,8 @@ This notebook is a implementation of a simple GAN trained on MNIST dataset.
 
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/GAN_conceptual.png?raw=true)
 
+![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/fake_digits_simpleGAN.png?raw=true)
+
 Look at the implemented model [here]()
 
 
