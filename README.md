@@ -10,7 +10,7 @@ Read our article [here]() <br />
 
 ## Simple GAN (fully connected) - MNIST
 This notebook is a implementation of a simple GAN trained on MNIST dataset.
-Look at the implemented model [here]()
+Look at the implemented model [here](https://github.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/blob/master/Simple_GAN_fullyconnected.ipynb)
 
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/GAN_conceptual.png?raw=true)
 
@@ -21,7 +21,7 @@ Look at the implemented model [here]()
 
 ## CycleGAN - Horse2Zebra
 This notebook is a implementation of a CycleGAN trained on images of horses and zebras.
-Look at the implemented model [here]()
+Look at the implemented model [here](https://github.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/blob/master/CycleGAN_Horse2Zebra.ipynb)
 
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/CycleGAN.jpg?raw=true)
 
