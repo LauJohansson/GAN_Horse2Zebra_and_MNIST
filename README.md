@@ -11,7 +11,7 @@ Read our article [here]() <br />
 ## Simple GAN (fully connected) - MNIST
 This notebook is a implementation of a simple GAN trained on MNIST dataset.
 
-![alt text](https://raw.githubusercontent.com/LauJohansson/ImageSegmentation_lung_CT/master/Figure_4.png?raw=true)
+![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/GAN_conceptual.png?raw=true)
 
 Look at the implemented model [here]()
 
