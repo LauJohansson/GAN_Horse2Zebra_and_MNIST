@@ -20,7 +20,8 @@ Look at the implemented model [here](https://github.com/LauJohansson/GAN_Horse2Z
 This notebook is a implementation of a CNN GAN trained on MNIST dataset.
 Look at the implemented model [here](https://github.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/blob/master/Convolutional_GAN_MNIST.ipynb)
 
-![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/fake_digits_simpleGAN.pdf?raw=true)
+![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/fake_digits_simpleGAN.png?raw=true)
+![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/Interpolation.png?raw=true)
 
 ## CycleGAN - Horse2Zebra
 This notebook is a implementation of a CycleGAN trained on images of horses and zebras.
