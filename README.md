@@ -4,7 +4,7 @@
 
 This repository contains hand-in assignment for the DTU course 02514 Deep learning in computer vision. 
 
-Read our article [here]() <br />
+Read our article [here](https://github.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/blob/master/GAN_Horse2Zebra_MNIST.pdf) <br />
 
 
 
