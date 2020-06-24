@@ -12,15 +12,20 @@ Read our article [here]() <br />
 This notebook is a implementation of a simple GAN trained on MNIST dataset.
 Look at the implemented model [here](https://github.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/blob/master/Simple_GAN_MNIST.ipynb)
 
+Overview of GAN model:
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/GAN_conceptual.png?raw=true)
 
+Fake generated digits:
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/fake_digits_simpleGAN.png?raw=true)
 
 ## CNN GAN - MNIST
 This notebook is a implementation of a CNN GAN trained on MNIST dataset.
 Look at the implemented model [here](https://github.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/blob/master/Convolutional_GAN_MNIST.ipynb)
 
+Fake generated digits:
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/fake_digits_CNNGAN.png?raw=true)
+
+Interpolation between two digits:
 ![alt text](https://raw.githubusercontent.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/master/Interpolation.png?raw=true)
 
 ## CycleGAN - Horse2Zebra
